@@ -4,9 +4,9 @@ import './contact.css'
 const Contact = () => {
   return (
     <section id="contact">
-      <h2>Get In Touch</h2>
+      <h2>Me Contactez</h2>
       <p>
-        Shoot me a message via any of the links below!
+      Envoyez-moi un message via l’un des liens ci-dessous!
       </p>
       <div className="container contact__container">
         {

@@ -1,8 +1,6 @@
 import AboutImage from '../../assets/prtf3.jpg'
 import CV from '../../assets/A.Riad.pdf'
 import {HiDownload} from 'react-icons/hi'
-import data from './data'
-import Card from '../../components/Card'
 import './abouut.css'
 
 const About = () => {
@@ -15,17 +13,9 @@ const About = () => {
                 </div>
             </div>
             <div className="about__right">
-                <h2>About Me</h2>
+                <h2>À propos de moi</h2>
                 <div className="about__cards">
-                    {
-                        data.map(item => (
-                            <Card key={item.id} className="about__card">
-                                <span className='about__card-icon'>{item.icon}</span>
-                                <h5>{item.title}</h5>
-                                <small>{item.desc}</small>
-                            </Card>
-                        ))
-                    }
+                   
                 </div>
                 <p>
                 Sérieux et motivé, je possède les qualités d'adaptation indispensables à la réussite d'une formation en

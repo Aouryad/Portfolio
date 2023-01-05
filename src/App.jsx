@@ -4,7 +4,7 @@ import About from "./section/About/abouut";
 import Portfolio from "./section/portfolio/Portfolio";
 import Contact from "./section/contact/Contacts";
 import Footer from "./section/footer/Footer";
-import FloatingNav from "./section/floating-nav/FloatingNav";
+
 
 
 const  App= () => {
@@ -16,7 +16,7 @@ const  App= () => {
         <Portfolio/>
         <Contact/>
         <Footer/>
-        <FloatingNav/> 
+        
     </main>
     )
 }

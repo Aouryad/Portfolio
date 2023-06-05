@@ -11,8 +11,8 @@ const Header = () => {
         </div>
         <h3>AOURTILANE Riad</h3>
         <p>
-        Étudiant en Bachelor à L'ETNA, je suis à la recherche d'une alternance d'une durée de 1 à 3 ans. Passionné par le monde de l'informatique,
-        .    </p>
+        Je suis passionné par tout ce qui touche à l'informatique .
+            </p>
         <div className="header__cta">
           <a href="#contact" className='btn primary'>Contactez moi</a>
           

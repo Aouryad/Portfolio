@@ -1,5 +1,5 @@
 import AboutImage from '../../assets/prtf3.jpg'
-import CV from '../../assets/A.Riad.pdf'
+import CV from '../../assets/Riadj.pdf'
 import {HiDownload} from 'react-icons/hi'
 import './abouut.css'
 
@@ -18,19 +18,15 @@ const About = () => {
                    
                 </div>
                 <p>
-                Sérieux et motivé, je possède les qualités d'adaptation indispensables à la réussite d'une formation en
-alternance. Afin de mener à bien mon projet professionnel, je souhaite désormais approfondir mes
-connaissances dans ce domaine .
-Durant ma formation à l’ETNA, j’ai pu acquérir les fondamentaux de la programmation. Grâce à cette
-formation, je suis capable de m’adapter et de répondre aux problématiques techniques de votre
-entreprise. La pédagogie par projet m’a permis de gagner en autonomie en me permettant d’apprendre à
-me poser les bonnes questions pour grandir et avancer.
-Étant disponible dès maintenant, je serais ravi de vous rencontrer lors d’un entretien ! .
+                Afin de mener à bien mon projet professionnel, je souhaite désormais approfondir mes connaissances dans ce domaine.
+Durant ma formation à l’ETNA, j’ai pu acquérir les fondamentaux de la programmation. Je suis capable de m’adapter et de répondre aux problématiques techniques de votre
+entreprise. La pédagogie par projet m’a permis de gagner en autonomie en me permettant d’apprendre à me poser les bonnes questions pour grandir et avancer.
+Étant disponible dès maintenant, je serais ravi de vous rencontrer lors d’un entretien !
                 </p>
                 <p>
-                Consultez mon CV ci-dessous!!
+                Consultez mon CV ci-dessous !!
                 </p>
-                <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
+                <a href={CV} download className='btn primary'>Telecharger CV <HiDownload/></a>
             </div>
         </div>
     </section>

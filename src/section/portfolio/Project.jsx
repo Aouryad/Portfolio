@@ -11,7 +11,7 @@ const Project = ({project}) => {
         <p>{project.desc}</p>
         <div className="portfolio__project-cta">
            
-           <a href={project.github} className="btn sm primary" target="_blank" rel="noopner noreferrer">Github</a>
+           <a href={project.github} className="btn sm primary" target="_blank" rel="noopner noreferrer">Lien</a>
         </div>
     </Card>
   )

@@ -13,10 +13,7 @@ const data = [
         image: Image1,
         title: "Site de messagerie(IRC)",
         desc: "Création d'un client en NodeJS(typeScript) et une base de donnée en MongoDB. Utilisation de soket.io pour la  communication.",
-       
-       
-        
- github: 'https://github.com/Aouryad'
+       github: 'https://github.com/Aouryad/irc'
     },
     {
         id: 2,
@@ -24,7 +21,7 @@ const data = [
         image: Image2,
         title: " Bubble tea",
         desc: "Un site E-commerce realisé avec LARAVEL (MVC).",
-        github: 'https://github.com/Aouryad'
+        github: 'https://github.com/Aouryad/Bubbletea'
     },
     {
         id: 3,
@@ -32,7 +29,7 @@ const data = [
         image: Image4,
         title: "Calculatrice",
         desc: "Calculatrice realisé avec Java. ",
-        github: 'https://github.com/Aouryad'
+        github: 'https://github.com/Aouryad/Calculatrice'
  
     },
     {
@@ -41,7 +38,7 @@ const data = [
         image: Image3,
         title: "API resTful",
         desc: "Une application realisée avec node.js et mongodb en back,le Front avec Angular et flutter. ",
-        github: 'https://github.com/Aouryad'
+        github: 'https://github.com/Aouryad/api'
  
     },
    
@@ -51,7 +48,7 @@ const data = [
         image: Image5,
         title: "Mini Mario",
         desc: "Realisation d'un mini SuperMario avec Java. ",
-        github: 'https://github.com/Aouryad'
+        github: 'https://github.com/Aouryad/miniMario'
  
     },
     {
@@ -60,7 +57,7 @@ const data = [
         image: Image6,
         title: "MyFilms",
         desc: "Une application realisé avec Java Spring Boot, React, et MongoDB. ",
-        github: 'https://github.com/Aouryad'
+        github: 'https://github.com/Aouryad/Myfilm'
  
     }
 ]

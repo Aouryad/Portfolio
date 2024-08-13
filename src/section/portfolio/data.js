@@ -4,6 +4,11 @@ import Image3 from '../../assets/API.jpg'
 import Image4 from '../../assets/cal(7).jpg'
 import Image5 from '../../assets/mario2.jpg'
 import Image6 from '../../assets/film.jpg'
+import Image7 from '../../assets/favicon.jpg'
+import Image8 from '../../assets/images.jpeg'
+import Image9 from '../../assets/190.png'
+import Image10 from '../../assets/37037.jpg'
+import Image11 from '../../assets/JavaScriptDeveloper.jpg'
 
 
 const data = [
@@ -59,7 +64,53 @@ const data = [
         desc: "Une application realisé avec Java Spring Boot, React, et MongoDB. ",
         github: 'https://github.com/Aouryad/Myfilm'
  
+    },
+     {
+        id: 7,
+        category: 'frontend',
+        image: Image7,
+        title: "ARA Beauty",
+        desc: "Realisation d'un site E-commerce node,react. ",
+        github: 'https://github.com/osci-site-e-com/osci-site-e-com'
+ 
+    },
+    {
+        id: 8,
+        category: 'fullstack',
+        image: Image8,
+        title: "Bouquetdefleur",
+        desc: "Un site E-commerce Vue.js. ",
+        github: 'https://github.com/Aouryad'
+ 
+    },
+    {
+        id: 9,
+        category: 'fullstack',
+        image: Image9,
+        title: "Businesscase",
+        desc: "La refonte de queleque partie du site salesforce projet fin de formation. ",
+        github: 'https://github.com/SAR-business-Case-SFCC/SAR-business-case-SFCC'
+ 
+    },
+    {
+        id: 10,
+        category: 'fullstack',
+        image: Image10,
+        title: "B2C Commerce Cloud",
+        desc: "Certification B2C Commerce Cloud. ",
+        github: 'https://www.salesforce.com/trailblazer/profile'
+ 
+    },
+    {
+        id: 11,
+        category: 'fullstack',
+        image: Image11,
+        title: "Javascript Developer",
+        desc: "Certification Javascript Developer. ",
+        github: 'https://www.salesforce.com/trailblazer/profile'
+ 
     }
+    
 ]
 
 

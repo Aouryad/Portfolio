@@ -19,7 +19,7 @@ const About = () => {
                 </div>
                 <p>
                 Afin de mener à bien mon projet professionnel, je souhaite désormais approfondir mes connaissances dans ce domaine.
-Durant ma formation à l’ETNA er OCSI groupe, j’ai pu acquérir les fondamentaux de la programmation. Je suis capable de m’adapter et de répondre aux problématiques techniques de votre
+Durant ma formation à Gefi, j’ai pu acquérir les fondamentaux des Systemes et Réseaux. Je suis capable de m’adapter et de répondre aux problématiques techniques de votre
 entreprise. La pédagogie par projet m’a permis de gagner en autonomie en me permettant d’apprendre à me poser les bonnes questions pour grandir et avancer.
 Étant disponible dès maintenant, je serais ravi de vous rencontrer lors d’un entretien !
                 </p>

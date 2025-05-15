@@ -1,5 +1,5 @@
 import AboutImage from '../../assets/prtf3.jpg'
-import CV from '../../assets/CVSystemReseaux.pdf'
+import CV from '../../assets/CV_Riad_Aourtilane.pdf'
 import {HiDownload} from 'react-icons/hi'
 import './abouut.css'
 
